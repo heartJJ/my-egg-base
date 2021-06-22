@@ -1,0 +1,7 @@
+node_modules
+upload/*
+logs/*
+run/*
+prod.env
+package-lock.json
+test
